@@ -18,20 +18,21 @@ git clone https://github.com/tajary/IamTheAuthor.git
 cd iam-the-author
 npm install
 ~~~
+
 ## 🚀 Quick Start
 ### Configure the Application
 ~~~
-// Update these constants in src/components/FileAndTextHasher.jsx
+// Update these constants in src/FileAndTextHasher.jsx
 const CONTRACT_ADDRESS = "0xYourDeployedContractAddressHere";
 const REGISTER_HASH_SELECTOR = "0x12345678";
 const GET_REGISTRATION_SELECTOR = "0xabcdef12";
 ~~~
 
 ### Start the Development Server
-
 ~~~
 npm start
 ~~~
+
 ### Connect MetaMask
 <pre>
 1. Install MetaMask extension
@@ -62,12 +63,13 @@ Use the `Smart Contract/ProofOfAuthorship.sol` file inside [Remix IDE](https://r
 ~~~
 
 ### 📞 Contact & Links
-
-GitHub Repository: https://github.com/tajary/IamTheAuthor
-
-Live Demo: https://tajary.github.io/i-am-the-author/index.html  
-
+<pre>
+LinkedIn: <a href="https://www.linkedin.com/in/tajary/">Alireza Tajary</a>
 Email: tajary@gmail.com
+
+GitHub Repository: <a href="https://github.com/tajary/IamTheAuthor">https://github.com/tajary/IamTheAuthor</a>
+Live Demo: <a href="https://tajary.github.io/i-am-the-author/index.html">https://tajary.github.io/i-am-the-author/index.html</a>
+</pre>
 
 ## 🙏 Acknowledgments
 ~~~
